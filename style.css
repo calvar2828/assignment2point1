@@ -1,0 +1,21 @@
+body{
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+#container{
+    background-color: aliceblue;
+    width: 60vw;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+h1{
+    font-size: 5vw;
+    text-align: center;
+}
+#weather-info{
+    font-size: 2vw;
+    text-align: center;
+}
